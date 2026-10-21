@@ -1,0 +1,6 @@
+{
+  "name": "WellNest — Your Complete Wellness Nest",
+  "description": "Meet Nesty, your 24/7 wellness companion. Personalized prediction dashboard, diet lab, exercise timers, period tracker, SOS emergency help, and well store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
